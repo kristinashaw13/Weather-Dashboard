@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+searches.json
+.env
+.env.txt
